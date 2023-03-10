@@ -1,3 +1,3 @@
 laatste update: 
-do 09-03-2023 22:00   uur 
-Status: FAALT - geel - 
+vr 10-03-2023  2:55   uur 
+Status: FAALT - fout - 
