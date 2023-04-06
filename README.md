@@ -1,4 +1,3 @@
 laatste update: 
-do 06-04-2023 10:55   uur 
-Status: FAALT - fout - 
-<div class="service R">mapsrv</div>
+do 06-04-2023 11:05   uur 
+Status: GOED - goed - 
