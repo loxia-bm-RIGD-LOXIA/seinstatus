@@ -1,4 +1,3 @@
 laatste update: 
-wo 12-04-2023 10:40   uur 
-Status: FAALT - fout - 
-<div class="service R">Sonar</div>
+wo 12-04-2023 11:05   uur 
+Status: GOED - goed - 
