@@ -1,3 +1,3 @@
 laatste update: 
-vr 19-05-2023  3:55   uur 
-Status: GOED - goed - 
+vr 19-05-2023  4:10   uur 
+Status: FAALT - fout - 
