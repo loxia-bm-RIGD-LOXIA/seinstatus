@@ -1,3 +1,4 @@
 laatste update: 
-do 15-06-2023  3:55   uur 
-Status: GOED - goed - 
+do 15-06-2023  6:05   uur 
+Status: FAALT - fout - 
+<div class="service R">schijfruimte</div><div class="service R">microstation</div>
