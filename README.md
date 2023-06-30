@@ -1,4 +1,3 @@
 laatste update: 
-vr 30-06-2023 13:21   uur 
-Status: FAALT - geel - 
-<div class="service R">nexus</div><div class="service Y">schijfruimte</div>
+vr 30-06-2023 15:26   uur 
+Status: GOED - goed - 
