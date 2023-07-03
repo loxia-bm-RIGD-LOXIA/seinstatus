@@ -1,4 +1,3 @@
 laatste update: 
-zo 02-07-2023 21:41   uur 
-Status: FAALT - fout - 
-<div class="service R">Jenkins</div>
+ma 03-07-2023  8:26   uur 
+Status: GOED - goed - 
