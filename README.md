@@ -1,3 +1,4 @@
 laatste update: 
-do 06-07-2023 19:35   uur 
-Status: GOED - goed - 
+do 06-07-2023 20:15   uur 
+Status: FAALT - fout - 
+<div class="service R">nexus</div><div class="service R">microstation</div>
