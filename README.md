@@ -1,3 +1,4 @@
 laatste update: 
-vr 07-07-2023 10:05   uur 
-Status: GOED - goed - 
+vr 07-07-2023 10:10   uur 
+Status: FAALT - fout - 
+<div class="service R">nexus</div>
