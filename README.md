@@ -1,3 +1,4 @@
 laatste update: 
-vr 21-07-2023 12:15   uur 
-Status: GOED - goed - 
+vr 21-07-2023 12:25   uur 
+Status: FAALT - fout - 
+<div class="service R">Jenkins</div><div class="service R">Sonar</div>
