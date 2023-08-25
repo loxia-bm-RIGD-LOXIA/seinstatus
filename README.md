@@ -1,4 +1,4 @@
 laatste update: 
-vr 25-08-2023 14:35   uur 
+vr 25-08-2023 14:45   uur 
 Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">Sonar</div>
+<div class="service R">Sonar</div>
