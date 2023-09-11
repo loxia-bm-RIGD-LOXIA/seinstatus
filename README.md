@@ -1,4 +1,4 @@
 laatste update: 
-di 12-09-2023  0:20   uur 
-Status: FAALT - geel - 
-<div class="service R">schijfruimte</div>
+di 12-09-2023  0:50   uur 
+Status: FAALT - fout - 
+<div class="service R">schijfruimte</div><div class="service R">microstation</div>
