@@ -1,4 +1,3 @@
 laatste update: 
-do 14-09-2023  2:50   uur 
-Status: FAALT - fout - 
-<div class="service R">J</div><div class="service R">microstation</div>
+do 14-09-2023  7:20   uur 
+Status: GOED - goed - 
