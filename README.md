@@ -1,4 +1,4 @@
 laatste update: 
-vr 22-09-2023 10:30   uur 
+vr 22-09-2023 10:32   uur 
 Status: FAALT - geel - 
-<div class="service R">nexus</div><div class="service Y">microstation</div>
+<div class="service Y">microstation</div>
