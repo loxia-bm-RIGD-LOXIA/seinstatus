@@ -1,4 +1,3 @@
 laatste update: 
-di 26-09-2023 21:50   uur 
-Status: FAALT - fout - 
-<div class="service R">schijfruimte</div>
+di 26-09-2023 21:52   uur 
+Status: GOED - goed - 
