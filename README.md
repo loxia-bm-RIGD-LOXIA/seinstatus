@@ -1,4 +1,4 @@
 laatste update: 
-di 26-09-2023  5:12   uur 
+di 26-09-2023  5:14   uur 
 Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">nexus</div><div class="service R">Sonar</div><div class="service R">schijfruimte</div><div class="service R">microstation</div><div class="service R">websites</div>
+<div class="service R">nexus</div><div class="service R">kms</div><div class="service R">Sonar</div><div class="service R">schijfruimte</div><div class="service R">microstation</div><div class="service R">websites</div>
