@@ -1,4 +1,3 @@
 laatste update: 
-do 05-10-2023 17:58   uur 
-Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">microstation</div>
+do 05-10-2023 18:00   uur 
+Status: GOED - goed - 
