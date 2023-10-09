@@ -1,4 +1,3 @@
 laatste update: 
-ma 09-10-2023 19:08   uur 
-Status: FAALT - fout - 
-<div class="service R">PLANDIX</div>
+ma 09-10-2023 19:10   uur 
+Status: GOED - goed - 
