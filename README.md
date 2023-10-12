@@ -1,4 +1,3 @@
 laatste update: 
-do 12-10-2023  5:18   uur 
-Status: FAALT - fout - 
-<div class="service R">kms</div><div class="service R">schijfruimte</div><div class="service R">microstation</div>
+do 12-10-2023  5:20   uur 
+Status: GOED - goed - 
