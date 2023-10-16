@@ -1,4 +1,4 @@
 laatste update: 
-ma 16-10-2023 12:56   uur 
+ma 16-10-2023 12:58   uur 
 Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">schijfruimte</div><div class="service Y">microstation</div>
+<div class="service R">schijfruimte</div><div class="service Y">microstation</div>
