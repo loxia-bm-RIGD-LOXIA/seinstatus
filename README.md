@@ -1,4 +1,4 @@
 laatste update: 
-wo 08-11-2023  5:00   uur 
+wo 08-11-2023  5:02   uur 
 Status: FAALT - fout - 
-<div class="service R">svn</div><div class="service R">microstation</div>
+<div class="service R">schijfruimte</div><div class="service R">svn</div><div class="service R">microstation</div>
