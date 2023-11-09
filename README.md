@@ -1,4 +1,4 @@
 laatste update: 
-do 09-11-2023  2:59   uur 
+do 09-11-2023  3:00   uur 
 Status: FAALT - fout - 
-<div class="service R">nexus</div><div class="service R">J</div><div class="service R">svn</div><div class="service Y">microstation</div>
+<div class="service R">svn</div><div class="service Y">microstation</div>
