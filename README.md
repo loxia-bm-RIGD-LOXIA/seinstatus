@@ -1,4 +1,4 @@
 laatste update: 
-vr 10-11-2023 22:16   uur 
-Status: FAALT - geel - 
+vr 10-11-2023 22:18   uur 
+Status: FAALT - fout - 
 <div class="service Y">schijfruimte</div>
