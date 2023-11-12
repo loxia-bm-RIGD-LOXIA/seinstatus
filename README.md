@@ -1,4 +1,4 @@
 laatste update: 
-zo 12-11-2023 19:48   uur 
-Status: FAALT - geel - 
-<div class="service Y">schijfruimte</div><div class="service Y">microstation</div>
+zo 12-11-2023 19:50   uur 
+Status: FAALT - fout - 
+<div class="service R">PLANDIX</div><div class="service Y">schijfruimte</div><div class="service Y">microstation</div>
