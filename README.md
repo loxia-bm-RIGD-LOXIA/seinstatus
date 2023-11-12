@@ -1,4 +1,4 @@
 laatste update: 
-zo 12-11-2023  2:12   uur 
+zo 12-11-2023  2:14   uur 
 Status: FAALT - geel - 
-<div class="service R">www</div><div class="service R">cfence</div><div class="service R">JIRA</div><div class="service R">Jenkins</div><div class="service R">J</div><div class="service R">git</div><div class="service Y">schijfruimte</div>
+<div class="service R">J</div><div class="service Y">schijfruimte</div>
