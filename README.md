@@ -1,4 +1,4 @@
 laatste update: 
-di 14-11-2023  4:50   uur 
-Status: FAALT - fout - 
-<div class="service R">mapsrv</div><div class="service Y">schijfruimte</div><div class="service R">microstation</div>
+di 14-11-2023  4:52   uur 
+Status: FAALT - geel - 
+<div class="service Y">schijfruimte</div><div class="service R">microstation</div>
