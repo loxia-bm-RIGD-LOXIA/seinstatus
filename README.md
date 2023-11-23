@@ -1,4 +1,4 @@
 laatste update: 
-do 23-11-2023  2:58   uur 
+do 23-11-2023  3:00   uur 
 Status: FAALT - fout - 
-<div class="service R">nexus</div><div class="service R">J</div><div class="service R">git</div><div class="service Y">microstation</div>
+<div class="service R">nexus</div><div class="service R">git</div><div class="service Y">microstation</div>
