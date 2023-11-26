@@ -1,4 +1,3 @@
 laatste update: 
-zo 26-11-2023  2:08   uur 
-Status: FAALT - fout - 
-<div class="service R">J</div>
+zo 26-11-2023  2:10   uur 
+Status: GOED - goed - 
