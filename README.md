@@ -1,4 +1,4 @@
 laatste update: 
-ma 27-11-2023 19:59   uur 
+ma 27-11-2023 20:04   uur 
 Status: FAALT - fout - 
-<div class="service R">mapsrv</div><div class="service R">git</div>
+<div class="service R">nexus</div><div class="service R">mapsrv</div>
