@@ -1,4 +1,4 @@
 laatste update: 
-zo 03-12-2023  5:20   uur 
-Status: FAALT - fout - 
-<div class="service R">kms</div><div class="service R">mapsrv</div><div class="service R">git</div><div class="service R">schijfruimte</div><div class="service R">microstation</div><div class="service G">httpstat</div>
+zo 03-12-2023  5:22   uur 
+Status: FAALT - geel - 
+<div class="service R">kms</div><div class="service R">schijfruimte</div><div class="service R">microstation</div><div class="service G">httpstat</div>
