@@ -1,4 +1,4 @@
 laatste update: 
-ma 04-12-2023 10:20   uur 
+ma 04-12-2023 10:22   uur 
 Status: FAALT - fout - 
 <div class="service R">mapsrv</div><div class="service G">httpstat</div>
