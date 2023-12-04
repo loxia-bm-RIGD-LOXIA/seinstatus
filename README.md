@@ -1,4 +1,4 @@
 laatste update: 
-ma 04-12-2023 22:20   uur 
-Status: FAALT - geel - 
+ma 04-12-2023 22:21   uur 
+Status: FAALT - fout - 
 <div class="service R">nexus</div><div class="service Y">httpstat</div>
