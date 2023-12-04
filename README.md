@@ -1,4 +1,4 @@
 laatste update: 
-ma 04-12-2023 19:42   uur 
-Status: FAALT - fout - 
-<div class="service R">git</div><div class="service Y">httpstat</div>
+ma 04-12-2023 19:44   uur 
+Status: FAALT - geel - 
+<div class="service Y">httpstat</div>
