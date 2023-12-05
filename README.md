@@ -1,4 +1,3 @@
 laatste update: 
-di 05-12-2023 16:46   uur 
-Status: FAALT - geel - 
-<div class="service Y">microstation</div><div class="service G">httpstat</div>
+di 05-12-2023 16:48   uur 
+Status: GOED - goed - 
