@@ -1,4 +1,4 @@
 laatste update: 
-di 05-12-2023  1:28   uur 
+di 05-12-2023  1:29   uur 
 Status: FAALT - fout - 
-<div class="service R">nexus</div><div class="service R">mapsrv</div><div class="service R">microstation</div><div class="service G">httpstat</div>
+<div class="service R">mapsrv</div><div class="service R">microstation</div><div class="service G">httpstat</div>
