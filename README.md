@@ -1,4 +1,3 @@
 laatste update: 
-za 09-12-2023 23:50   uur 
-Status: FAALT - fout - 
-<div class="service R">schijfruimte</div><div class="service G">httpstat</div>
+za 09-12-2023 23:52   uur 
+Status: GOED - goed - 
