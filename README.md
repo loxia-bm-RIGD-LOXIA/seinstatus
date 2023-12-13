@@ -1,4 +1,3 @@
 laatste update: 
-wo 13-12-2023 18:50   uur 
-Status: FAALT - geel - 
-<div class="service Y">httpstat</div>
+wo 13-12-2023 18:52   uur 
+Status: GOED - goed - 
