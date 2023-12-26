@@ -1,4 +1,3 @@
 laatste update: 
-di 26-12-2023  4:54   uur 
-Status: FAALT - fout - 
-<div class="service R">nexus</div><div class="service R">microstation</div><div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div>
+di 26-12-2023  4:56   uur 
+Status: GOED - goed - 
