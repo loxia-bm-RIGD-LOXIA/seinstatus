@@ -1,4 +1,4 @@
 laatste update: 
-wo 10-01-2024 17:58   uur 
+wo 10-01-2024 18:00   uur 
 Status: FAALT - fout - 
-<div class="service Y">microstation</div><div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
+<div class="service R">nexus</div><div class="service Y">microstation</div><div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
