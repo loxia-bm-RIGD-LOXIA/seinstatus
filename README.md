@@ -1,3 +1,4 @@
 laatste update: 
-zo 14-01-2024 16:38   uur 
-Status: GOED - goed - 
+zo 14-01-2024 16:40   uur 
+Status: FAALT - fout - 
+<div class="service R">PLANDIX</div><div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
