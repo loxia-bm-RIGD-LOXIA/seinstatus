@@ -1,4 +1,4 @@
 laatste update: 
-di 20-02-2024  5:52   uur 
+di 20-02-2024  5:56   uur 
 Status: FAALT - fout - 
 <div class="service R">www</div><div class="service O">cfence</div><div class="service O">JIRA</div><div class="service R">nexus</div><div class="service O">PLANDIX</div><div class="service O">mapsrv</div><div class="service O">git</div><div class="service O">ipadr</div><div class="service R">schijfruimte</div><div class="service R">microstation</div><div class="service O">websites</div><div class="service O">httpstat</div><div class="service G">checkjobs</div><div class="service G">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
