@@ -1,4 +1,4 @@
 laatste update: 
-di 20-02-2024 18:41   uur 
+di 20-02-2024 18:42   uur 
 Status: FAALT - fout - 
-<div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
+<div class="service R">Jenkins</div><div class="service R">nexus</div><div class="service R">Sonar</div><div class="service R">keyc</div><div class="service R">websites</div><div class="service R">httpstat</div><div class="service G">checkjobs</div><div class="service R">initjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
