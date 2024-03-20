@@ -1,3 +1,4 @@
 laatste update: 
-wo 20-03-2024 10:32   uur 
-Status: GOED - goed - 
+wo 20-03-2024 10:34   uur 
+Status: FAALT - geel - 
+<div class="service Y">httpstat</div><div class="service G">checkjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
