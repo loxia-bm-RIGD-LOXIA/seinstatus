@@ -1,3 +1,4 @@
 laatste update: 
-zo 24-03-2024  7:32   uur 
-Status: GOED - goed - 
+zo 24-03-2024  7:34   uur 
+Status: FAALT - fout - 
+<div class="service R">mapsrv</div><div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service G">updatejobs</div>
