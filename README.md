@@ -1,4 +1,4 @@
 laatste update: 
-di 26-03-2024 20:42   uur 
-Status: FAALT - geel - 
-<div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service Y">updatejobs</div>
+di 26-03-2024 20:44   uur 
+Status: FAALT - fout - 
+<div class="service R">Jenkins</div><div class="service G">httpstat</div><div class="service G">checkjobs</div><div class="service G">backupjobs</div><div class="service G">opschoonjobs</div><div class="service Y">updatejobs</div>
