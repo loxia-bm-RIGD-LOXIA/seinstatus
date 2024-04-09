@@ -1,4 +1,4 @@
 laatste update: 
-di 09-04-2024 20:50   uur 
-Status: FAALT - geel - 
-<div class="service Y">microstation</div>
+di 09-04-2024 20:52   uur 
+Status: FAALT - fout - 
+<div class="service R">PLANDIX</div><div class="service Y">microstation</div>
