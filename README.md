@@ -1,3 +1,4 @@
 laatste update: 
-wo 10-04-2024 18:20   uur 
-Status: GOED - goed - 
+wo 10-04-2024 18:22   uur 
+Status: FAALT - fout - 
+<div class="service R">schijfruimte</div>
