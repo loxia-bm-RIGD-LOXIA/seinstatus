@@ -1,2 +1,2 @@
 laatste update: 
-Status: FAALT - geel - 
+Status: GOED - goed - 
