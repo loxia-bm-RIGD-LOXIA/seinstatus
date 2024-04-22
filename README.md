@@ -1,3 +1,3 @@
 laatste update: 
-Status: FAALT - fout - 
-<div class="service Y">kms</div><div class="service R">mapsrv</div>
+Status: FAALT - geel - 
+<div class="service Y">kms</div>
