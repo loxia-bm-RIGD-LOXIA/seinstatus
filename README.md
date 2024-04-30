@@ -1,3 +1,3 @@
 laatste update: 
-Status: FAALT - fout - 
-<div class="service R">mapsrv</div><div class="service Y">microstation</div>
+Status: FAALT - geel - 
+<div class="service Y">microstation</div>
