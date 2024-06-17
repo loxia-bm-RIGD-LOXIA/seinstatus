@@ -1,3 +1,3 @@
 laatste update: 
-Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">schijfruimte</div>
+Status: FAALT - geel - 
+<div class="service R">schijfruimte</div>
