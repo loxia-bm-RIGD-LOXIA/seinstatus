@@ -1,3 +1,3 @@
 laatste update: 
-Status: FAALT - fout - 
+Status: FAALT - geel - 
 <div class="service R">schijfruimte</div>
