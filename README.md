@@ -1,3 +1,2 @@
 laatste update: 
-Status: FAALT - fout - 
-<div class="service O">PLANDIX</div>
+Status: GOED - goed - 
