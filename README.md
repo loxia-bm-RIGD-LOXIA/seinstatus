@@ -1,3 +1,2 @@
 laatste update: 
-Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">ipadr</div>
+Status: GOED - goed - 
