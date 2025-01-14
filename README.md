@@ -1,2 +1,2 @@
 laatste update: 
-Status: GOED - goed - 
+Status: FAALT - fout - 
