@@ -1,3 +1,7 @@
 laatste update: 
 Status: FAALT - fout - 
-<div class="service R">www</div><div class="service R">Jenkins</div><div class="service R">Sonar</div><div class="service R">keyc</div><div class="service R">backupjobs</div><div class="service R">loxia.nl</div><div class="service R">rigd-loxia.nl</div><div class="service G">cpu</div><div class="service R">dockerregistry</div><div class="service R">railzcontainers</div>
+<br />
+<b>Warning</b>:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in <b>/var/www/html/intranet/sein514/sein514/inc/db.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in <b>/var/www/html/intranet/sein514/sein514/inc/db.php</b> on line <b>9</b><br />
+Connection failed: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
