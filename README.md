@@ -1,3 +1,9 @@
 laatste update: 
 Status: FAALT - fout - 
-<div class="service R">schijfruimte</div><div class="service R">checkjobs</div><div class="service G">loxia.nl</div><div class="service G">rigd-loxia.nl</div><div class="service Y">cpu</div><div class="service G">dockerregistry</div><div class="service G">railzcontainers</div>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.20.1</center>
+</body>
+</html>
