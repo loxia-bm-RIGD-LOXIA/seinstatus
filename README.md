@@ -1,9 +1,3 @@
 laatste update: 
 Status: FAALT - geel - 
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.20.1</center>
-</body>
-</html>
+<div class="service R">www</div><div class="service R">Sonar</div><div class="service Y">schijfruimte</div><div class="service R">keyc</div><div class="service R">loxia.nl</div><div class="service R">rigd-loxia.nl</div><div class="service G">cpu</div><div class="service R">dockerregistry</div><div class="service R">railzcontainers</div>
