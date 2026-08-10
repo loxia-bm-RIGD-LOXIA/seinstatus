@@ -1,5 +1,5 @@
 laatste update: 
-Status: FAALT - geel - 
+Status: FAALT - fout - 
 <html>
 <head><title>502 Bad Gateway</title></head>
 <body>
