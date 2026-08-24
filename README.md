@@ -1,2 +1,3 @@
 laatste update: 
-Status: GOED - goed - 
+Status: FAALT - geel - 
+<div class="service R">loxia.nl</div><div class="service R">rigd-loxia.nl</div><div class="service Y">cpu</div><div class="service G">initjobs</div>
