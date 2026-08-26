@@ -1,3 +1,3 @@
 laatste update: 
-Status: FAALT - fout - 
-<div class="service R">schijfruimte</div><div class="service R">initjobs</div>
+Status: FAALT - geel - 
+<div class="service Y">schijfruimte</div><div class="service R">initjobs</div>
