@@ -1,3 +1,3 @@
 laatste update: 
 Status: FAALT - fout - 
-<div class="service R">Jenkins</div><div class="service R">ipadr</div><div class="service R">railzcontainers</div><div class="service R">initjobs</div>
+<div class="service R">Jenkins</div><div class="service R">ipadr</div><div class="service R">initjobs</div>
