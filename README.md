@@ -1,3 +1,3 @@
 laatste update: 
-Status: FAALT - geel - 
-<div class="service Y">updatejobs</div><div class="service G">initjobs</div>
+Status: FAALT - fout - 
+<div class="service R">backupjobs</div><div class="service Y">updatejobs</div><div class="service G">initjobs</div>
