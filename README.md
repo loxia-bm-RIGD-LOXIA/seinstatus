@@ -1,9 +1,3 @@
 laatste update: 
 Status: FAALT - fout - 
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.30.7</center>
-</body>
-</html>
+<div class="service R">Jenkins</div><div class="service R">nexus</div><div class="service R">J</div><div class="service R">mapsrv</div><div class="service R">git</div><div class="service R">ipadr</div><div class="service R">schijfruimte</div><div class="service R">cpu</div><div class="service R">initjobs</div>
